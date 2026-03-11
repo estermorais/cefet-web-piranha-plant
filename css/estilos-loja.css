@@ -1,5 +1,5 @@
 h1 {
-  color: darkgreen;
+  color: limegreen;
   font-family: 'Trebuchet MS', Arial, sans-serif;
   font-style: italic;
 }
@@ -7,13 +7,12 @@ h1 {
 table {
   border-collapse: collapse;
   margin: 0 auto;
-  background-color: rgba(255, 255, 255, 0.7);
+  width: 600px;
 }
 
 table caption {
   font-weight: bold;
   font-size: 1.2em;
-  background-color: #555;
   color: white;
   padding: 6px 10px;
 }
