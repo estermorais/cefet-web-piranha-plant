@@ -1,10 +1,19 @@
-body {
-  background-image: url('../imagens/fundo.png');
-  background-color: #ddd;
-  font-family: 'Palatino Linotype', Palatino, Georgia, serif;
+body.index {
+  background-color: white;
+  font-family: Arial, sans-serif;
   margin: 0 auto;
   max-width: 800px;
-  padding: 10px 20px;
+  padding: 10px 10px;
+  font-size: 14px;
+}
+
+body.loja {
+  background-image: url('../imagens/desenho-loucao.jpg');
+  font-family: Arial, sans-serif;
+  margin: 0 auto;
+  max-width: 800px;
+  padding: 10px 10px;
+  font-size: 14px;
 }
 
 a {

@@ -1,11 +1,13 @@
 h1 {
-  color: darkgreen;
-  font-family: 'Trebuchet MS', Arial, sans-serif;
+  color: limegreen;
+  font-family: Times New Roman, serif;
+  font-size: 28px;
 }
 
 h2 {
-  color: darkgreen;
-  font-family: 'Trebuchet MS', Arial, sans-serif;
+  color: limegreen;
+  font-family: Times New Roman, serif;
+  font-size: 22px;
 }
 
 em {
@@ -14,10 +16,7 @@ em {
 
 blockquote {
   font-style: italic;
-  border-left: 4px solid green;
-  margin-left: 20px;
-  padding-left: 15px;
-  color: #444;
+  margin-left: 60px;
 }
 
 q {
@@ -25,15 +24,16 @@ q {
 }
 
 #voce-sabia {
-  background-color: rgba(255, 240, 180, 0.85);
-  border: 1px solid goldenrod;
-  padding: 8px 14px;
-  border-radius: 4px;
+  background-image: url(../imagens/fundo.png) ;
+  border: 3px solid limegreen;
+  padding: 10px;
 }
 
 img {
   display: block;
+  border: 8px solid limegreen;
   margin: 0 auto;
+  width: 300px;
 }
 
 ul {
